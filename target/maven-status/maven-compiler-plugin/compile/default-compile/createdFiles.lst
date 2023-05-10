@@ -1,0 +1,7 @@
+character/Character.class
+character/Ship.class
+character/Projectile.class
+asteroids/PolygonFactory.class
+character/Asteroid.class
+asteroids/AsteroidsApplication.class
+asteroids/AsteroidsApplication$1.class
