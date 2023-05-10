@@ -1,5 +1,5 @@
 # Asteroids
-![Alt Text](image1.png)
+![Alt Text](image1.jpg)
 
 A simple Asteroids game built using Java and JavaFX
 
